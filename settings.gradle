@@ -1,0 +1,2 @@
+rootProject.name = "Memesharingapp"
+include ':app'
